@@ -1,1 +1,0 @@
-Data Source=DERRICK-PC\\SQLEXPRESS;Initial Catalog=skinet;Integrated Security=True;Trust Server Certificate=True
